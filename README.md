@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning androd native app kotin specifically
 - 💞️ I’m open to collaborations
 - 📫 How to reach me 
-mail: mezueric@gmal.com
+mail: mezueric@gmail.com
 
 
 
