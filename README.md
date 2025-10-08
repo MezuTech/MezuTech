@@ -3,6 +3,7 @@
 - 💞️ I’m open to collaborations
 - 📫 How to reach me 
 mail: mezueric@gmail.com
+portfolio: https://mezutech.github.io/portfolio/
 
 
 
